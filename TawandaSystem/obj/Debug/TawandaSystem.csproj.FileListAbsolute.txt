@@ -1,0 +1,56 @@
+C:\Users\roro\Desktop\TawandaSystem\bin\Debug\TawandaSystem.exe.config
+C:\Users\roro\Desktop\TawandaSystem\bin\Debug\TawandaSystem.exe
+C:\Users\roro\Desktop\TawandaSystem\bin\Debug\TawandaSystem.pdb
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.csproj.AssemblyReference.cache
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.AccessControl.resources
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.Children.resources
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.Donations.resources
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.DonationTypes.resources
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.LogIn.resources
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.Properties.Resources.resources
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.csproj.GenerateResource.cache
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.csproj.CoreCompileInputs.cache
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.exe
+C:\Users\roro\Desktop\TawandaSystem\obj\Debug\TawandaSystem.pdb
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\bin\Debug\TawandaSystem.exe.config
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\bin\Debug\TawandaSystem.exe
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\bin\Debug\TawandaSystem.pdb
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.csproj.AssemblyReference.cache
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.AccessControl.resources
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.Children.resources
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.Donations.resources
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.DonationTypes.resources
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.LogIn.resources
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.Properties.Resources.resources
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.csproj.GenerateResource.cache
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.exe
+C:\Users\Solihle Xhinela\Documents\GitHub\TawandaSystem\obj\Debug\TawandaSystem.pdb
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\bin\Debug\TawandaSystem.exe.config
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\bin\Debug\TawandaSystem.exe
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\bin\Debug\TawandaSystem.pdb
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.csproj.AssemblyReference.cache
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.AccessControl.resources
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.Children.resources
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.Donations.resources
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.DonationTypes.resources
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.LogIn.resources
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.Properties.Resources.resources
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.csproj.GenerateResource.cache
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.exe
+C:\Users\Solihle Xhinela\Documents\TawandaSystem\obj\Debug\TawandaSystem.pdb
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\bin\Debug\TawandaSystem.exe.config
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\bin\Debug\TawandaSystem.exe
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\bin\Debug\TawandaSystem.pdb
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.csproj.AssemblyReference.cache
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.AccessControl.resources
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.Children.resources
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.Donations.resources
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.DonationTypes.resources
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.LogIn.resources
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.Properties.Resources.resources
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.csproj.GenerateResource.cache
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.exe
+C:\Users\Solihle Xhinela\OneDrive\Documents\TawandaSystem\obj\Debug\TawandaSystem.pdb
